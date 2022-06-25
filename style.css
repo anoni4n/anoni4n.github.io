@@ -12,6 +12,8 @@ body {
   font-weight: 400;
   font-family: Helvetica;
   color: #FFFFFF;
+  border-radius:10px; 
+  margin-top:5px
 }
 
 /**

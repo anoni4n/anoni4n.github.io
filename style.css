@@ -8,7 +8,7 @@ html {
 }
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
-  line-height: 1.5;
+  line-height: 1.6;
   font-weight: 400;
   font-family: Helvetica;
   color: #FFFFFF;  
@@ -97,12 +97,12 @@ html {
   background-size:cover;
 }
 body {
-  max-width:700px;
+  max-width:800px;
   margin:25px auto;
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
-  padding:20px;
+  padding:25px;
   color:#FFFFFF; 
   border-radius:10px; 
   margin-top:10px

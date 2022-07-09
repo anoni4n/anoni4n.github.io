@@ -3,10 +3,8 @@
 ! Homepage: anoni4n.github.io
 
 ! block
-||example.org^
 ||probet188.org^
 
 ! unblock
-@@||example.org^
 @@||amp-api-edge.apps.apple.com^
 @@||i.instagram.com^

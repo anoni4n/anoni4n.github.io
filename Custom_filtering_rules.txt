@@ -4,6 +4,7 @@
 
 ! block
 ||probet188.org^
+||menanggacor.com^
 
 ! unblock
 @@||amp-api-edge.apps.apple.com^

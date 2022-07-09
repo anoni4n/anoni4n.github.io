@@ -1,1 +1,7 @@
-test.com
+! block
+||example.org^
+
+! unblock
+@@||example.org^
+@@||amp-api-edge.apps.apple.com^
+@@||i.instagram.com^

@@ -1,6 +1,6 @@
 ! Title: anoni4n (AdGuard Home)
 ! Description: Custom filtering rules
-! Homepage: anoni4n.github.io
+! Homepage: https://raw.githubusercontent.com/anoni4n/anoni4n.github.io/main/Custom_filtering_rules.txt
 
 ! block
 ||probet188.org^

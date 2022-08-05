@@ -75,10 +75,10 @@ span{
 }
 
 .images{
-    width: 40%;
-    height: 40%;
+    width: 30%;
+    height: 30%;
     position: absolute;
-    bottom: 25%;
+    bottom: 30%;
     right: 100px;
 }
 

@@ -21,6 +21,12 @@ body {
   font-size: 28px;
 }
 
+.footer-name {
+  text-align: center;
+  padding: 30px;
+  font-size: 10px;
+}
+
 .links {
   text-align: center;
   margin-top: 20px;

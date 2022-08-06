@@ -852,7 +852,7 @@ body.active { overflow-y: hidden; }
 \*-----------------------------------*/
 
 .footer-top {
-  background: url("../images/footer-bg.jpg") no-repeat;
+  background: url("../images/.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding: var(--section-padding) 0;

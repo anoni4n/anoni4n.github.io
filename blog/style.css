@@ -102,10 +102,13 @@ body {
 }
 header, #content, footer {   
   background: rgba(0,0,0,.8); 
-  padding:25px;
-  color:#FFFFFF; 
-  border-radius:10px; 
-  margin-top:10px;
+  padding: 25px;
+  color: #FFFFFF; 
+  border-radius: 10px; 
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 /* Menu Links */

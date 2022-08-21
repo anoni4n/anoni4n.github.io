@@ -6,8 +6,8 @@
 ;
 ; -------------------------------------------------
 ;
-;                 PERATURAN SERVER
-;                 ----------------
+; PERATURAN SERVER
+;                
 ; - Semua pemain wajib membaca peraturan server   
 ; - Whitelist
 ; - Badside
@@ -16,8 +16,8 @@
 ;
 ; -------------------------------------------------
 ;
-;                      FITUR
-;                      -----
+; FITUR
+;                     
 ; - Server terletak di indoneisa dengan
 ; - Fitur terbaru
 ; - Slot 64 pemain
@@ -27,30 +27,30 @@
 ;
 ; -------------------------------------------------
 ;
-;            PERATURAN Whitelist (Polisi)
-;            ----------------------------
+; PERATURAN Whitelist (Polisi)
+;           
 ; 1. Polisi wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;
-;            PERATURAN Whitelist (Medis)
-;            ---------------------------
+; PERATURAN Whitelist (Medis)
+;           
 ; 1. Paramedis wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;
-;            PERATURAN Whitelist (Mekanik)
-;            -----------------------------
+; PERATURAN Whitelist (Mekanik)
+;            
 ; 1. Mekanik wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
-;            PERATURAN Whitelist (Pedagang)
-;            ------------------------------
+; PERATURAN Whitelist (Pedagang)
+;           
 ; 1. Pedagang wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
-;            PERATURAN Badside (Keluarga)
-;            ----------------------------
+; PERATURAN Badside (Keluarga)
+;          
 ; 1. Keluarga wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------

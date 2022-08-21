@@ -29,24 +29,24 @@
 ;
 ;            PERATURAN Whitelist (Polisi)
 ;            ----------------------------
-; 1. Polisi wajib lapor ke komandan dengan menggunakan radio
+; 1. Polisi wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;
 ;            PERATURAN Whitelist (Medis)
 ;            ---------------------------
-; 1. Paramedis wajib lapor ke kepala rumah sakit dengan menggunakan radio
+; 1. Paramedis wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;
 ;            PERATURAN Whitelist (Mekanik)
 ;            -----------------------------
-; 1. Mekanik wajib lapor ke kepala mekanik dengan menggunakan radio
+; 1. Mekanik wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;            PERATURAN Whitelist (Pedagang)
 ;            ------------------------------
-; 1. Pedagang wajib lapor ke kepala pedagang dengan menggunakan radio
+; 1. Pedagang wajib masuk ke radio ketika on duty
 ;
 ; -------------------------------------------------
 ;            PERATURAN Badside (Keluarga)

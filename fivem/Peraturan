@@ -10,6 +10,7 @@
 ; - Badside
 ; - Warga
 ; - Gunakan CTL + F untuk mencari peraturan
+;
 ; -------------------------------------------------
 ;                      FITUR
 ;                      -----
@@ -17,10 +18,32 @@
 ; - Fitur terbaru
 ; - Slot 64 pemain
 ; - 4 Job whitelist
-; - Sistem badside berbasis family
+; - Sistem badside berbasis keluarga
 ; - Server ringan
 ;
-; PERATURAN Whitelist (Kepolisian)
-;            
+; -------------------------------------------------
+;           PERATURAN Whitelist (Polisi)
+;           ----------------------------
 ; 1. Polisi wajib lapor ke komandan lapangan dengan menggunakan radio
+;
+; -------------------------------------------------
+;            PERATURAN Whitelist (Medis)
+;            ---------------------------
+; 1. Paramedis wajib lapor ke kepala rumah sakit dengan menggunakan radio
+;
+; -------------------------------------------------
+;            PERATURAN Whitelist (Mekanik)
+;            -----------------------------
+; 1. Mekanik wajib lapor ke kepala mekanik dengan menggunakan radio
+;
+; -------------------------------------------------
+;            PERATURAN Whitelist (Pedagang)
+;            ------------------------------
+; 1. Pedagang wajib lapor ke kepala pedagang dengan menggunakan radio
+;
+; -------------------------------------------------
+;            PERATURAN Badside (Keluarga)
+;            ----------------------------
+; 1. Keluarga wajib lapor ke ketua dengan menggunakan radio
+;
 ; -------------------------------------------------
